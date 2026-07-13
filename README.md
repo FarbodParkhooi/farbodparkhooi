@@ -17,7 +17,7 @@
   <a href="mailto:farbod.p1390@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/farbod-parkhooi-59b2612a7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -40,8 +40,8 @@ I'm a **professional programmer** based in Iran with deep expertise across multi
 🔭 **Currently working on**:
 - **Agaah Counseling Center** — Django-based appointment booking system (multi-role, Persian UI, video session integration)
 - **DIY AR Goggles** — Video See-Through headset prototype with custom PCB design and computer vision pipeline
-- **CIFAR-10 DCGAN** — Unconditional GAN with hinge loss and gradient penalty (PyTorch)
-- **F35-view** — Ball-tracking targeting system (fighter-jet themed)
+- **CIFAR-10 GAN, and cGAN** — GAN and cGAN models on PyTorch
+- **F35-view** — A simulated F35 HUD including CV features
 
 🌱 **Learning**: Advanced GAN architectures, Voice Generation (TTS, vocoders), Computer Vision
 
@@ -58,8 +58,6 @@ I'm a **professional programmer** based in Iran with deep expertise across multi
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ### AI/ML & Data
@@ -73,9 +71,7 @@ I'm a **professional programmer** based in Iran with deep expertise across multi
 ### Web & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
 ### Embedded & Hardware
@@ -90,7 +86,6 @@ I'm a **professional programmer** based in Iran with deep expertise across multi
 <p align="left">
   <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
   <img src="https://img.shields.io/badge/Altium-FF5919?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
-  <img src="https://img.shields.io/badge/FreeCAD-729FCF?style=for-the-badge&logo=freecad&logoColor=white" />
 </p>
 
 ---
@@ -115,20 +110,12 @@ I'm a **professional programmer** based in Iran with deep expertise across multi
     <td width="50%">
       <h3 align="center">🏥 Agaah Counseling Center</h3>
       <p align="center">
-        <a href="https://github.com/farbodparkhooi/agaah" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=farbodparkhooi&repo=agaah&theme=tokyonight&hide_border=true" />
-        </a>
-        <br />
         <span>Full-featured Django booking system for a psychology clinic with multi-role support, Skyroom video integration, Persian UI, and ticketing.</span>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">🥽 DIY AR Goggles</h3>
       <p align="center">
-        <a href="https://github.com/farbodparkhooi/ar-goggles" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=farbodparkhooi&repo=ar-goggles&theme=tokyonight&hide_border=true" />
-        </a>
-        <br />
         <span>Video See-Through AR headset prototype with custom PCB design, RPi5, dual cameras, and Fresnel optics.</span>
       </p>
     </td>
@@ -137,11 +124,7 @@ I'm a **professional programmer** based in Iran with deep expertise across multi
     <td width="50%">
       <h3 align="center">✈️ F35-view</h3>
       <p align="center">
-        <a href="https://github.com/farbodparkhooi/f35-view" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=farbodparkhooi&repo=f35-view&theme=tokyonight&hide_border=true" />
-        </a>
-        <br />
-        <span>Ball-tracking targeting system with color detection, speed/distance calculation, and target identification — fighter-jet themed.</span>
+        <span>Object targeting system with speed/distance calculation, and target identification — fighter-jet themed.</span>
       </p>
     </td>
     <td width="50%">
@@ -156,29 +139,6 @@ I'm a **professional programmer** based in Iran with deep expertise across multi
     </td>
   </tr>
 </table>
-
----
-
-## 🔧 What I'm Currently Building
-
-| Project | Status | Tech Stack |
-|---------|--------|------------|
-| **Agaah Counseling Center** | Near deployment | Django, PostgreSQL, Skyroom, jdatetime |
-| **DIY AR Goggles** | PCB layout phase | Altium, RPi5, Python, OpenCV |
-| **CIFAR-10 DCGAN** | Training / tuning | PyTorch, CUDA |
-| **STM32 Flight Controller** | Ready for build | STM32F103C8T6, C, MPU6050 |
-| **F35-view** | Ideation | Python, OpenCV |
-
----
-
-## ⚡ How I Work
-
-- **No code unless explicitly asked** — explain concepts, layers, and trade-offs in words
-- **No opinions/recommendations** — lay out trade-offs and let me decide
-- **Explain the "why" before listing components**
-- **Concise and dense** — skip narrative, keep facts and specifics
-- **Zero-cost solutions only**
-- **For code projects**: full file/function bodies when things change, not diffs
 
 ---
 
