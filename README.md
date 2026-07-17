@@ -97,19 +97,6 @@ I'm a **professional programmer** based in Iran with deep expertise across multi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farbodparkhooi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farbodparkhooi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farbodparkhooi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 <table align="center">
@@ -137,9 +124,6 @@ I'm a **professional programmer** based in Iran with deep expertise across multi
     <td width="50%">
       <h3 align="center">🚁 STM32 Flight Controller</h3>
       <p align="center">
-        <a href="https://github.com/farbodparkhooi/stm32-flight-controller" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=farbodparkhooi&repo=stm32-flight-controller&theme=tokyonight&hide_border=true" />
-        </a>
         <br />
         <span>Custom flight controller for a micro hexacopter — written entirely from scratch on STM32F103C8T6. No pre-built firmware.</span>
       </p>
